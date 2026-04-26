@@ -8,10 +8,8 @@ Anthropic Computer Use, OpenAI Operator, Gemini Mariner, plus browser-only agent
 
 | # | Title | Status | Description |
 |---|-------|--------|-------------|
-| 01 | Computer-Use Architectures | in development | Anthropic Computer Use, OpenAI Operator, Gemini Mariner; action schemas (click x,y vs accessibility-tree vs CSS selectors); screenshots vs DOM vs accessibility tree; containers and VMs; OSWorld, WebVoyager, AgentBench. |
-| 02 | Browser Agent Patterns | in development | Browser-Use, Playwright agents, Steel; DOM extraction strategies; screen vs DOM trade-offs; WebArena and Mind2Web evals; captcha &amp; anti-bot; stateful sessions; pricing; failure recovery. |
-
-> <strong>Status:</strong> sub-hub created with roadmap. Leaf decks land progressively over upcoming sessions.
+| 01 | [Computer-Use Architectures](https://brendanjameslynskey.github.io/CompUse_01_Architectures/) | live | Anthropic Computer Use, OpenAI Operator, Gemini Mariner; action schemas (click x,y vs accessibility-tree vs CSS selectors); screenshots vs DOM vs accessibility tree; containers and VMs; OSWorld, WebVoyager, AgentBench. |
+| 02 | [Browser Agent Patterns](https://brendanjameslynskey.github.io/CompUse_02_Browser_Patterns/) | live | Browser-Use, Playwright agents, Steel; DOM extraction strategies; screen vs DOM trade-offs; WebArena and Mind2Web evals; captcha &amp; anti-bot; stateful sessions; pricing; failure recovery. |
 
 ## Where this fits
 
