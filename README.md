@@ -1,3 +1,7 @@
+<!-- portfolio-strip:start (brief 40) -->
+<sub>**Brendan Lynskey** · [Portfolio home](https://brendanjameslynskey.github.io/) · [Interactive sites](https://brendanjameslynskey.github.io/#sites)</sub>
+<!-- portfolio-strip:end -->
+
 # Computer-Use &amp; Browser Agents
 
 Anthropic Computer Use, OpenAI Operator, Gemini Mariner, plus browser-only agents (Browser-Use, Playwright). Action schemas, screen vs DOM grounding, sandboxing, evals.
